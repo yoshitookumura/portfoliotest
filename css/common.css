@@ -63,7 +63,7 @@ li {
   text-shadow: 1px 1px 0 black;
 }
 .section {
-  padding: 20px 0;
+  padding-top: 20px 0;
 }
 
 .section:nth-of-type(odd) {
