@@ -53,12 +53,14 @@ li {
   font-weight: bold;
   color: rgb(83, 77, 77);
   letter-spacing: 5px;
+  text-shadow: 0 5px 5px black;
 }
 .top_subtitle {
   font-size: 20px;
   font-weight: bold;
   color: rgb(77, 71, 71);
   letter-spacing: 5px;
+  text-shadow: 1px 1px 0 black;
 }
 .section {
   padding: 120px 0;
