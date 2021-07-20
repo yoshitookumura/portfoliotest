@@ -45,7 +45,7 @@ li {
   align-items: center;
   justify-content: center;
   text-align: center;
-  height: 700px;
+  height: 500px;
   background-color: rgb(1, 97, 153);
 }
 .top_title {
@@ -63,14 +63,14 @@ li {
   text-shadow: 1px 1px 0 black;
 }
 .section {
-  padding: 120px 0;
+  padding-top: 120px 0;
 }
 
 .section:nth-of-type(odd) {
   background-color: #f7f7f7;
 }
 .inner {
-  max-width: 1000px;
+  max-width: 800px;
   margin: 0 auto;
   padding: 0 40px;
 }
@@ -104,7 +104,7 @@ li {
 .about_img {
   display: block;
   width: 40%;
-  margin: 0 auto 30px;
+  margin: 0 auto 10px;
   border-radius: 50%;
   box-shadow: 0 0 50px 0 #d9d9d9;
 }
@@ -151,7 +151,7 @@ li {
   list-style: none;
 }
 .contact_item {
-  width: 60px;
+  width: 80px;
 }
 .contact_mail {
   margin-top: 10px;
